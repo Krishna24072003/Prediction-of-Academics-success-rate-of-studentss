@@ -1,4 +1,4 @@
-**Student Success Prediction Project**
+**Project:Student Success Prediction **
 
 **Overview**
 
